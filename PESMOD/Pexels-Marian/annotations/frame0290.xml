@@ -1,0 +1,25 @@
+<annotation>
+  <folder></folder>
+  <filename>images/frame0290.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>motion</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>877.7</xmin>
+      <ymin>463.43</ymin>
+      <xmax>897.42</xmax>
+      <ymax>472.01</ymax>
+    </bndbox>
+  </object>
+</annotation>
