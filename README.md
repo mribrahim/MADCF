@@ -15,3 +15,14 @@ UAV123L - person14: https://youtu.be/BgZSY1cm-QQ
 UAV123L - person19: https://youtu.be/BT7vdlH1vYI
 
 PESMOD: https://youtu.be/GuQeFZjCwy8
+
+# Build and Run
+
+Download PESMOD dataset [from](https://github.com/mribrahim/PESMOD/)
+```
+mkdir build
+cd build
+cmake ..
+make
+./tracker -p "/home/ibrahim/Desktop/Dataset/PESMOD/" -s Pexels-Shuraev-trekking
+```
