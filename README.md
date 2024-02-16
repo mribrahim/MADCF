@@ -2,6 +2,8 @@
 
 Motion-Aware Object Tracking for Aerial Images with Deep Features and Discriminative Correlation Filter
 
+[paper](https://link.springer.com/article/10.1007/s11042-024-18571-8)
+
 > PESMOD and VIVID folder contains tracker annotations. You can use them to evaluate your trackers. 
 
 > scripts/show-PESMOD.py and scripts/show-VIVID.py shows sequences int the datasets.
